@@ -1,0 +1,13 @@
+// Primary
+$softblue: hsl(215, 51%, 70%);
+$cyan: hsl(178, 100%, 50%);
+
+// Neutral
+
+$main-background: hsl(217, 54%, 11%); // Main Background
+$card-background: hsl(216, 50%, 16%); // Card Background
+$line: hsl(215, 32%, 27%); // Line
+$white: hsl(0, 0%, 100%); // White
+
+@import 'general';
+@import 'card';
